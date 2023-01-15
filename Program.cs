@@ -36,4 +36,6 @@ string[] AskArray() {
     Write("Введите значения через пробел: ");
     return ReadLine().Split(" ");
 
+
+
 }
